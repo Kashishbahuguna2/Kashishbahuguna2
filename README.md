@@ -1,17 +1,71 @@
-## Hi there 👋
+🌟 Hi, I'm Kashish!
 
-<!Aspiring Data Scientist • Python Enthusiast • DSA Learner
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kashishbahuguna2&label=Profile%20Views&color=blue&style=flat" alt="profile views" /> </p>--
-**Kashishbahuguna2/Kashishbahuguna2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist | Python Enthusiast | Learning DSA
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about learning new technologies, building small meaningful projects, and improving my problem-solving skills day by day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently Working On
+
+• Improving my DSA (Data Structures & Algorithms) skills
+
+• Building Python-based beginner projects
+
+• Exploring Data Science and ML basics
+
+🤝 Looking to Collaborate On
+
+• Beginner-friendly Python projects
+
+• Data Science & ML mini projects
+
+• Open-source contributions
+
+🆘 Looking for Help With
+
+• Advanced DSA problems
+
+• ML model building & dataset handling
+
+🌱 Currently Learning
+
+• Python
+
+• SQL
+
+• Data Science (Pandas, NumPy, EDA)
+
+• Machine Learning (Beginner level)
+
+• Git & GitHub
+
+• C++ (for DSA)
+
+💬 Ask Me About
+
+• Python basics
+
+• DSA starting tips
+
+• Git/GitHub setup
+
+• Beginner-level ML concepts
+
+⚙️ Tech I Use
+
+• Python • SQL • Pandas • NumPy • Matplotlib • Seaborn 
+
+• Machine Learning (Basics)
+
+• DSA (C++/Python)
+
+• Git & GitHub
+
+• VS Code
+
+⚡ Fun Fact
+
+I love creating small projects that make learning fun, and I’m always excited to explore something new in tech!
+
+📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/kashish-bahuguna-5489002a7
