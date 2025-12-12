@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+<!Aspiring Data Scientist • Python Enthusiast • DSA Learner
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kashishbahuguna2&label=Profile%20Views&color=blue&style=flat" alt="profile views" /> </p>--
 **Kashishbahuguna2/Kashishbahuguna2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
